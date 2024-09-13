@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/soani/Documents/python/complete-pandas-tutorial/myenv"
+set -gx VIRTUAL_ENV "/home/soani/Documents/python/olympics_dataset_pandas_exercise/myenv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

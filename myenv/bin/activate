@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/soani/Documents/python/complete-pandas-tutorial/myenv"
+VIRTUAL_ENV="/home/soani/Documents/python/olympics_dataset_pandas_exercise/myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
